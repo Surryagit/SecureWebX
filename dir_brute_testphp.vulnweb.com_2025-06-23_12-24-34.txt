@@ -1,0 +1,7 @@
+Directory Brute Force Report for http://testphp.vulnweb.com
+Scan Time: 2025-06-23_12-24-34
+
+✅ Found: http://testphp.vulnweb.com/admin
+✅ Found: http://testphp.vulnweb.com/images
+
+--- End of Report ---

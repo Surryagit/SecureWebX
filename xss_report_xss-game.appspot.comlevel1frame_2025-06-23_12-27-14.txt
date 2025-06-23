@@ -1,0 +1,9 @@
+XSS Scan Report for: https://xss-game.appspot.com/level1/frame
+Scan Time: 2025-06-23_12-27-14
+Total Forms Found: 1
+
+📄 Form #1 details:
+{'action': '', 'method': 'get', 'inputs': [{'type': 'text', 'name': 'query'}, {'type': 'submit', 'name': None}]}
+⚠️ XSS vulnerability detected!
+
+--- End of Report ---

@@ -1,0 +1,11 @@
+Port Scan Report for scanme.nmap.org
+Scan Time: 2025-06-23_12-22-21
+
+✅ Port 22 (SSH) is OPEN
+✅ Port 80 (HTTP) is OPEN
+
+Total Open Ports: 2
+🔓 22 - SSH
+🔓 80 - HTTP
+
+--- End of Report ---

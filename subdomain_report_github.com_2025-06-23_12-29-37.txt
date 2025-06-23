@@ -1,0 +1,13 @@
+Subdomain Scan Report for github.com
+Scan Time: 2025-06-23_12-29-37
+
+✅ Found: http://www.github.com
+✅ Found: http://blog.github.com
+✅ Found: http://shop.github.com
+✅ Found: http://api.github.com
+✅ Found: http://admin.github.com
+✅ Found: http://support.github.com
+
+🎯 Total found: 6
+
+--- End of Report ---

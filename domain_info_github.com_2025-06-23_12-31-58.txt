@@ -1,0 +1,25 @@
+Domain Information for: github.com
+Scan Time: 2025-06-23_12-31-58
+
+domain_name: GITHUB.COM
+registrar: MarkMonitor, Inc.
+registrar_url: http://www.markmonitor.com
+reseller: None
+whois_server: whois.markmonitor.com
+referral_url: None
+updated_date: [datetime.datetime(2024, 9, 7, 9, 16, 32), datetime.datetime(2024, 9, 7, 9, 16, 33, tzinfo=datetime.timezone.utc)]
+creation_date: [datetime.datetime(2007, 10, 9, 18, 20, 50), datetime.datetime(2007, 10, 9, 18, 20, 50, tzinfo=datetime.timezone.utc)]
+expiration_date: [datetime.datetime(2026, 10, 9, 18, 20, 50), datetime.datetime(2026, 10, 9, 0, 0, tzinfo=datetime.timezone.utc)]
+name_servers: ['DNS1.P08.NSONE.NET', 'DNS2.P08.NSONE.NET', 'DNS3.P08.NSONE.NET', 'DNS4.P08.NSONE.NET', 'NS-1283.AWSDNS-32.ORG', 'NS-1707.AWSDNS-21.CO.UK', 'NS-421.AWSDNS-52.COM', 'NS-520.AWSDNS-01.NET']
+status: ['clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited', 'clientTransferProhibited https://icann.org/epp#clientTransferProhibited', 'clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited', 'clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)', 'clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)', 'clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)']
+emails: ['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']
+dnssec: unsigned
+name: None
+org: GitHub, Inc.
+address: None
+city: None
+state: CA
+registrant_postal_code: None
+country: US
+
+--- End of Report ---

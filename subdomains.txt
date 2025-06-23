@@ -1,0 +1,10 @@
+www
+mail
+admin
+test
+login
+portal
+dev
+api
+shop
+support
